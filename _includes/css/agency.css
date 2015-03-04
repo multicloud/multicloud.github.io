@@ -265,22 +265,29 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
-    background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
-    background-position: center center;
-    background-repeat: none;
+    background: url(../img/header-bg.jpg) 50% 0 ;
+    height: auto;  
+    margin: 0 auto; 
+    position: relative; 
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8); */
+    padding: 200px 0;
+    
+    
+    background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
 
+
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 50px;
     padding-bottom: 50px;
 }
 
 header .intro-text .intro-lead-in {
+	padding-top: 50px;
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
@@ -299,7 +306,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 200px;
         padding-bottom: 200px;
     }
 

@@ -1,5 +1,5 @@
 <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
+    <nav class="navbar navbar-default navbar-fixed-top" id="navbar">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">{{site.title}}</a>
+                <a class="navbar-brand page-scroll" href="#page-top"><img alt="{{site.title}}" src="/img/logos/MultiCloud-Yaron-shadow-sml.png" class="img-responsive img-centered" style="max-width:100px; margin-top: -20px;"</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -18,8 +18,11 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
+                    <!--li>
+                        <a class="page-scroll" href="#challenges">Challenges</a>
+                    </li>
                     <li>
-                        <a class="page-scroll" href="#services">Services</a>
+                        <a class="page-scroll" href="#functions">Functions</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#portfolio">Portfolio</a>
@@ -29,7 +32,7 @@
                     </li>
                     <li>
                         <a class="page-scroll" href="#team">Team</a>
-                    </li>
+                    </li-->
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
@@ -41,12 +44,16 @@
     </nav>
 
     <!-- Header -->
-    <header>
+    <header id="header" >
+    <!--
+    		data-top="background-position: 50% 0px;" 
+    		data-top-bottom="background-position: 50% -100px;" -->
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Welcome To Our Studio!</div>
-                <div class="intro-heading">It's Nice To Meet You</div>
-                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
+				<img src="/img/logos/MultiCloud-Yaron-shadow.png" class="img-responsive center-block" alt="" width="40%" height="40%" align="center">
+                <!--div class="intro-heading">Docker Cloud as a Service</div-->
+                <div class="intro-lead-in">Cloud Technology Optimization</div>
+                <a href="#contact" class="page-scroll btn btn-xl">Tell Me More</a>
             </div>
         </div>
     </header>
