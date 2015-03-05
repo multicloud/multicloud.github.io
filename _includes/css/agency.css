@@ -172,7 +172,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #b5d8f6;
 }
 
 .navbar-default .navbar-brand {
@@ -210,7 +210,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #3b81b2; /* text color in navbar */
 }
 
 .navbar-default .nav li a:hover,
@@ -254,7 +254,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #b5d8f6;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -265,12 +265,12 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
-    background: url(../img/header-bg.jpg) 50% 0 ;
+    background: url(../img/clouds2.jpg) 50% 0 ;
     height: auto;  
     margin: 0 auto; 
     position: relative; 
     /*box-shadow: 0 0 50px rgba(0,0,0,0.8); */
-    padding: 200px 0;
+    padding: 100px 0;
     
     
     background-repeat: no-repeat;
@@ -661,7 +661,7 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
+    background-color: #265285;
     background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
