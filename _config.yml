@@ -8,29 +8,40 @@ url: https://hacked-jekyll.netlify.app
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: Place Holder
+  name: Superlambda
   description:
     - Hello!
-    - This tiny website
-    - Looks like json
-  cv: assets/cv.pdf
-  address:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
-  contact:
-    office: Foobar Hall 1.23
-    phone: +1 234 567 890
-    email: username@domain.com
-  demo: https://hacked-jekyll.netlify.app
-  source: https://github.com/piazzai/hacked-jekyll
-  profiles:
-    facebook: https://www.facebook.com
-    twitter: https://twitter.com
-    instagram: https://www.instagram.com
-    linkedin: https://www.linkedin.com
-    stackoverflow: https://stackoverflow.com
-    github: https://github.com
+    - Thank you for visiting our page
+    - We're still in stealth
+  problem:
+    - AI and compute-intensive workloads are super complex at scale
+    - AI and compute-intensive workloads are super expensive at scale
+    - AI requires specific operational expertise
+    - AI requires specific technical expertise
+    - AI requires specific engineering expertise
+    - Are you over-spending on your cloud infrastructure for AI ?
+    - Are you over-spending on your compute for AI ?
+  solution:
+    - ...
+    
+  # cv: assets/cv.pdf
+  # address:
+  #   - University of Jekyll
+  #   - Department of Themes
+  #   - 123 Main St, Anytown, USA
+  # contact:
+  #   office: Foobar Hall 1.23
+  #   phone: +1 234 567 890
+  #   email: username@domain.com
+  # demo: https://hacked-jekyll.netlify.app
+  # source: https://github.com/piazzai/hacked-jekyll
+  # profiles:
+  #   facebook: https://www.facebook.com
+  #   twitter: https://twitter.com
+  #   instagram: https://www.instagram.com
+  #   linkedin: https://www.linkedin.com
+  #   stackoverflow: https://stackoverflow.com
+  #   github: https://github.com
 
 exclude:
   - LICENSE
