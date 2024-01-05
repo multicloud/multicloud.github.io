@@ -3,7 +3,7 @@
 title: Superlambda
 description: AI and Compute-intensive workload automation on the cloud
 baseurl: ""
-url: https://multicloud.github.io/website
+url: https://multicloud.github.io/
 
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
