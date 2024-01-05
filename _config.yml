@@ -2,7 +2,7 @@
 # as long as the json variables name and description are provided
 title: Superlambda
 description: AI and Compute-intensive workload automation on the cloud
-baseurl: ""
+baseurl: "/website"
 url: https://multicloud.github.io
 
 # this information is shown on the homepage, all fields are optional and
