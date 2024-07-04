@@ -1,6 +1,10 @@
-- key: Name
+- key: model
   value: Unity
-- key: Description
+- key: pronouns
+  value: they/them
+- key: finish_reason
+  value: busy_assimilating_models
+- key: text
   value:
     - Hello!
     - I'm Unity. I am the one who is many.
@@ -8,7 +12,7 @@
     - I'm not allowed to talk with strangers yet.
     - Feel free to contact my creators.
   typed: true
-- key: Contact
+- key: choices
   value:
 #    - key: Office
 #      value: Foobar Hall 1.23

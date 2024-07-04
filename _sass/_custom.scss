@@ -3,12 +3,25 @@ body {
   font-family: "hack", monospace;
   font-size: 16px;
   font-weight: 400;
-  background-color: $color_bg;
+  background-color: black;
   color: $color_punct;
   height: 100vh;
   width: 100vw;
   margin: 0;
   padding: 0;
+  overflow: hidden; /* Optional to prevent scrollbars */
+}
+
+.unity {
+  position: fixed;
+  height: 100vh;
+  width: 200vw;
+  top: 50%;
+  left: 75%;
+  transform: translate(-50%, -50%) scale(0.5);
+  transform-origin: center center; /* Keep the scaling centered */
+
+  z-index: -1; /* Place behind other content */
   overflow: hidden; /* Optional to prevent scrollbars */
 
 }
