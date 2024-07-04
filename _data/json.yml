@@ -1,9 +1,10 @@
 - key: Name
-  value: A1 Labs
+  value: Unity
 - key: Description
   value:
     - Hello!
     - Thank you for visiting me.
+    - I'm Unity. I am the one who is many.
     - I'm not allowed to talk with strangers yet.
     - Feel free to contact my reators.
   typed: true
