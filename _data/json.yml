@@ -1,0 +1,17 @@
+- key: Name
+  value: A1 Labs
+- key: Description
+  value:
+    - Hello!
+    - Thank you for visiting our page.
+    - We're still in stealth.
+  typed: true
+- key: Contact
+  value:
+#    - key: Office
+#      value: Foobar Hall 1.23
+#    - key: Phone
+#      value: +1 234 567 890
+    - key: Email
+      value: info@a1-labs.co
+      url: "mailto:info@a1-labs.co"
