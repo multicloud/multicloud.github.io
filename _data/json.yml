@@ -3,7 +3,7 @@
 - key: pronouns
   value: they/them
 - key: finish_reason
-  value: busy_assimilating_models
+  value: busy_assimilating_knowledge
 - key: text
   value:
     - Hello!
