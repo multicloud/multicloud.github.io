@@ -20,6 +20,8 @@ plugins:
 sass:
   sourcemap: never
 
+google_analytics: G-TKZ7L5GZ7E
+
 jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics
     id: G-TKZ7L5GZ7E          # Required - replace with your tracking id
