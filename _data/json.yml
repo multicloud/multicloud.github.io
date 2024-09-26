@@ -4,14 +4,16 @@
   value: they/them
 - key: finish_reason
   value: busy_assimilating_knowledge
+  url: "/assets/mmlupro"  
 - key: text
   value:
-    - Hello!
+    - Hello.
     - I am Unity. 
     - I am the one who is many.
     - Thank you for visiting me.
     - I'm not allowed to talk with strangers yet.
     - Feel free to contact my creators.
+    - Resistance is futile.
   typed: true
 - key: choices
   value:
@@ -22,6 +24,3 @@
     - key: Email
       value: info@a1-labs.co
       url: "mailto:info@a1-labs.co"
-    - key: models
-      value: mmlupro
-      url: "/assets/mmlupro"      
