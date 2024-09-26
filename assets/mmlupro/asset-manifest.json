@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a63a83ce.css",
-    "main.js": "/static/js/main.dff23bbd.js",
-    "static/js/453.024ba4e0.chunk.js": "/static/js/453.024ba4e0.chunk.js",
-    "index.html": "/index.html",
-    "main.a63a83ce.css.map": "/static/css/main.a63a83ce.css.map",
-    "main.dff23bbd.js.map": "/static/js/main.dff23bbd.js.map",
-    "453.024ba4e0.chunk.js.map": "/static/js/453.024ba4e0.chunk.js.map"
+    "main.css": "/assets/mmlupro/static/css/main.a63a83ce.css",
+    "main.js": "/assets/mmlupro/static/js/main.22a72b3b.js",
+    "static/js/453.024ba4e0.chunk.js": "/assets/mmlupro/static/js/453.024ba4e0.chunk.js",
+    "index.html": "/assets/mmlupro/index.html",
+    "main.a63a83ce.css.map": "/assets/mmlupro/static/css/main.a63a83ce.css.map",
+    "main.22a72b3b.js.map": "/assets/mmlupro/static/js/main.22a72b3b.js.map",
+    "453.024ba4e0.chunk.js.map": "/assets/mmlupro/static/js/453.024ba4e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a63a83ce.css",
-    "static/js/main.dff23bbd.js"
+    "static/js/main.22a72b3b.js"
   ]
 }
