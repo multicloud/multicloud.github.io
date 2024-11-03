@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/assets/mmlupro/static/css/main.265dbaa3.css",
-    "main.js": "/assets/mmlupro/static/js/main.b7c9623b.js",
+    "main.js": "/assets/mmlupro/static/js/main.f13a9fa0.js",
     "static/js/453.024ba4e0.chunk.js": "/assets/mmlupro/static/js/453.024ba4e0.chunk.js",
     "index.html": "/assets/mmlupro/index.html",
     "main.265dbaa3.css.map": "/assets/mmlupro/static/css/main.265dbaa3.css.map",
-    "main.b7c9623b.js.map": "/assets/mmlupro/static/js/main.b7c9623b.js.map",
+    "main.f13a9fa0.js.map": "/assets/mmlupro/static/js/main.f13a9fa0.js.map",
     "453.024ba4e0.chunk.js.map": "/assets/mmlupro/static/js/453.024ba4e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.265dbaa3.css",
-    "static/js/main.b7c9623b.js"
+    "static/js/main.f13a9fa0.js"
   ]
 }
